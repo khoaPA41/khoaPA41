@@ -32,25 +32,10 @@ I enjoy turning gameplay ideas into **clean, reusable, and maintainable systems*
 
 ## 🚀 Featured Projects
 
-## 🎮 DABDA_PANDORA (RE-END)
-
-<p align="center">
-  <img src="YOUR_PROJECT_IMAGE_URL" width="800">
-</p>
-
-Story-driven 3D Unity project focused on interaction, world flow, UI, and a playable vertical slice.
-
-**Focus:** Exploration · Interaction · UI/UX · Scene Flow · Narrative Presentation  
-**Stack:** `C#` · `Unity` · `Input System` · `Animator` · `Timeline` · `URP`
-
-🔗 [Repository](https://github.com/khoaPA41/DABDA_PANDORA)
-
----
-
 ## ⚔️ Unity 3D Boss Rush
 
 <p align="center">
-  <img src="YOUR_PROJECT_IMAGE_URL" width="800">
+  <img src="https://github.com/khoaPA41/khoaPA41/blob/main/download1-ezgif.com-optimize%20(1).gif" width="800">
 </p>
 
 3D action combat prototype focused on player control, combo flow, and enemy encounters.
@@ -62,12 +47,27 @@ Story-driven 3D Unity project focused on interaction, world flow, UI, and a play
 
 ---
 
+## 🎮 DABDA_PANDORA (RE-END)
+
+<p align="center">
+  <img src="https://github.com/khoaPA41/khoaPA41/blob/main/DABDA_PANDORA%209_6_2026%2010_09_09%20PM.png" width="800">
+</p>
+
+Story-driven 3D Unity project focused on interaction, world flow, UI, and a playable vertical slice.
+
+**Focus:** Exploration · Interaction · UI/UX · Scene Flow · Narrative Presentation  
+**Stack:** `C#` · `Unity` · `Input System` · `Animator` · `Timeline` · `URP`
+
+🔗 [Repository](https://github.com/khoaPA41/DABDA_PANDORA)
+
+---
+
 ## 🧪 Projects in Development
 
 ## 🎮 Conquer The Stars
 
 <p align="center">
-  <img src="YOUR_PROJECT_IMAGE_URL" width="800">
+  <img src="https://github.com/khoaPA41/khoaPA41/blob/main/Screenshot%202026-09-06%20213458.png" width="800">
 </p>
 
 Turn-based 3D combat game with a full battle loop, party systems, and boss encounters.
@@ -80,16 +80,16 @@ Turn-based 3D combat game with a full battle loop, party systems, and boss encou
 ---
 
 ## 🧩 Core Systems
+> Upcoming
 
 Patterns and systems implemented inside my game projects (not published as separate packages).
 
-### State Machine
-Finite state machines for battle flow and character combat behaviour  
-(`Setup → Turn → Execution → Resolve → Result`).
+### [State Machine](https://github.com/khoaPA41/Pattern---State-Machine)
+Finite state machines for battle flow and character combat behaviour.  
 
 Used in: Conquer The Stars · Boss Rush · DABDA_PANDORA
 
-### Object Pooling
+### [Object Pooling](https://github.com/khoaPA41/Pattern---Object-Pooling)
 Pooling for VFX, UI elements, and short-lived spawned objects to reduce instantiate/destroy cost.
 
 Used in: Conquer The Stars · Boss Rush · DABDA_PANDORA
