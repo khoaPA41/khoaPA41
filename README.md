@@ -80,7 +80,6 @@ Turn-based 3D combat game with a full battle loop, party systems, and boss encou
 ---
 
 ## 🧩 Core Systems
-> Upcoming
 
 Patterns and systems implemented inside my game projects (not published as separate packages).
 
