@@ -35,7 +35,7 @@ I enjoy turning gameplay ideas into **clean, reusable, and maintainable systems*
 ## ⚔️ Unity 3D Boss Rush
 
 <p align="center">
-  <img src="https://github.com/khoaPA41/khoaPA41/blob/main/download1-ezgif.com-optimize%20(1).gif" width="800">
+  <img src="https://github.com/khoaPA41/khoaPA41/blob/main/Gif_I.gif" width="700">
 </p>
 
 3D action combat prototype focused on player control, combo flow, and enemy encounters.
